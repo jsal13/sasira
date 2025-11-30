@@ -18,23 +18,23 @@
         },
         {
             "name": "Inventory List",
-            "sasiran": "Šu ašmu šenašu.",
-            "script": "𐊔𐊅 𐊀𐊔𐊌 𐊔𐊄𐊍𐊀𐊔𐊅",
-            "translation": "You see stone.",
+            "sasiran": "Šu ašmu ženašu.",
+            "script": "𐊔𐊅 𐊀𐊔𐊌 𐊆𐊄𐊍𐊀𐊔𐊅",
+            "translation": "You inspect goods.",
             "notes": "Found among pottery shards. Clean, precise carving indicates professional record-keeping."
         },
         {
             "name": "Customer Request",
-            "sasiran": "Sa šu nehru žafašu.",
-            "script": "𐊀 𐊔𐊅 𐊍𐊄𐊇𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅",
-            "translation": "I eat sweet things for you.",
+            "sasiran": "Sa nehru ašmu šenašu.",
+            "script": "𐊖𐊀 𐊍𐊄𐊇𐊓𐊅 𐊀𐊔𐊌 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "translation": "I seek sweet goods.",
             "notes": "Small tablet found near food preparation area. Informal script with finger marks still visible in clay."
         },
         {
             "name": "Payment Record",
-            "sasiran": "Lu ašmu ṣirašu.",
-            "script": "𐊍𐊅 𐊀𐊔𐊌 𐊑𐊉𐊓𐊀𐊔𐊅",
-            "translation": "They carry stone.",
+            "sasiran": "Lu ašmu žafašu.",
+            "script": "𐊍𐊚 𐊀𐊔𐊌 𐊆𐊀𐊐𐊀𐊔𐊅",
+            "translation": "They trade goods.",
             "notes": "Located in what appears to be a money-changer's booth. Very orderly script, possibly official documentation."
         },
         {

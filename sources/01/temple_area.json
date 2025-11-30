@@ -13,42 +13,42 @@
             "name": "Offering Record",
             "sasiran": "Sanu nehšu ṣirašu.",
             "script": "𐊖𐊀𐊌𐊚 𐊍𐊄𐊇𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
-            "translation": "I see the sun.",
+            "translation": "We carry fruit.",
             "notes": "Discovered in offering chamber. Formal script suggests official temple record-keeping."
         },
         {
             "name": "Blessing Request",
             "sasiran": "Lu žihru šenšu.",
             "script": "𐊍𐊚 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
-            "translation": "I see the sun.",
+            "translation": "They watch stars.",
             "notes": "Found buried beneath prayer mat remnants. Script shows emotional urgency in carving depth."
         },
         {
             "name": "Ritual Instruction",
             "sasiran": "Šuru mešu žafašu.",
             "script": "𐊖𐊚𐊗𐊚 𐊌𐊄𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅",
-            "translation": "I see the sun.",
+            "translation": "You all eat water.",
             "notes": "Located in priest's quarters. Very precise script indicating instructional text for ceremonies."
         },
         {
             "name": "Community Gathering",
             "sasiran": "Luru sanu žafšu.",
             "script": "𐊍𐊚𐊗𐊚 𐊖𐊀𐊌𐊚 𐊆𐊀𐊐𐊔𐊅",
-            "translation": "I see the sun.",
+            "translation": "They speak to us.",
             "notes": "Found in main temple hall. Large script carved for public reading during gatherings."
         },
         {
             "name": "Sacred Fire Tending",
             "sasiran": "Sa šuru šenšu.",
             "script": "𐊖𐊀 𐊔𐊅𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
-            "translation": "I see the sun.",
+            "translation": "I watch fire.",
             "notes": "Discovered near eternal flame pit. Heat-damaged but script shows careful maintenance notes."
         },
         {
             "name": "Morning Service",
-            "sasiran": "Šu ašmru šenašu.",
-            "script": "𐊖𐊚 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
-            "translation": "I see the sun.",
+            "sasiran": "Šu šamšeru šenašu.",
+            "script": "𐊖𐊚 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "translation": "You see the dawn.",
             "notes": "Found in dawn-facing alcove. Script worn smooth from repeated reading during sunrise prayers."
         }
     ]

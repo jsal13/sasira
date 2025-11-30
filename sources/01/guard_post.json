@@ -25,17 +25,17 @@
         },
         {
             "name": "Signal Fire Orders",
-            "sasiran": "Lu šuru žafšu.",
-            "script": "𐊍𐊚 𐊔𐊅𐊓𐊅 𐊆𐊀𐊐𐊔𐊅",
+            "sasiran": "Lu šuru ženšu.",
+            "script": "𐊍𐊚 𐊔𐊅𐊓𐊅 𐊆𐊄𐊍𐊔𐊅",
             "notes": "Found near beacon tower. Urgent script suggesting emergency communication protocols.",
-            "translation": "They speak of fire."
+            "translation": "They signal with fire."
         },
         {
             "name": "Patrol Report",
             "sasiran": "Sa šamšu šenašu.",
-            "script": "𐊖𐊀 𐊔𐊀𐊌𐊔𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "script": "𐊖𐊀 𐊂𐊀𐊇𐊌𐊅𐊓 𐊔𐊄𐊍𐊀𐊔𐊅",
             "notes": "Located in report filing area. Clear, formal script indicating official documentation.",
-            "translation": "I see the sun."
+            "translation": "I see a storm."
         },
         {
             "name": "Night Relief",
@@ -46,10 +46,10 @@
         },
         {
             "name": "Supply Request",
-            "sasiran": "Lu nehšu ṣirašu.",
-            "script": "𐊍𐊚 𐊍𐊄𐊇𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
-            "notes": "Discovered in command area. Formal military script?",
-            "translation": "They carry fruit."
+            "sasiran": "Lu ašmu ṣirašu.",
+            "script": "𐊍𐊚 𐊀𐊔𐊌 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "notes": "Discovered in command area. Formal military script indicating supply requisition.",
+            "translation": "They carry provisions."
         }
     ]
 }

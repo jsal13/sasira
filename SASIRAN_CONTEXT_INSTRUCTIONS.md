@@ -230,6 +230,135 @@ The game content uses a streamlined single-file system where each JSON contains 
 
 ---
 
+## Dictionary Optimization and Analysis Features
+
+### Quick Lookup System
+
+The dictionary now includes optimized lookup indexes for efficient analysis:
+
+- **`quick_lookup.by_sasiran`**: Direct word lookup by Sasiran text with complete information
+- **`quick_lookup.by_meaning`**: Reverse lookup by English meaning to find Sasiran words  
+- **`quick_lookup.by_type`**: Grouped words by grammatical category (pronouns, verbs, nouns, etc.)
+- **`morpheme_patterns`**: Analysis helpers for verb endings, construction formulas, and patterns
+
+### Advanced Vocabulary
+
+**Compound Words** (Level 02+):
+- `mehuš` (rivers) = me + hu + š (water + flow + sound)
+- `šamšeru` (dawn) = šam + še + ru (bright + early + plural)  
+- `ašmgah` (mountains) = ašm + gah (hard + great)
+- `šulsur` (trade winds) = šul + sur (wind + new)
+- `šezru` (seasons) = šez + ru (time + plural)
+- `gahmur` (storm) = gah + mur (big + rain)
+
+**Advanced Verbs** (for sophisticated contexts):
+- `ženašu` (to inspect/examine) - used in commercial and academic contexts
+- `ženšu` (to tend/signal) - care or communication actions
+- `žarašu` (to arbitrate/negotiate) - diplomatic and legal contexts
+
+## Translation Validation Guidelines
+
+### Contextual Appropriateness
+
+When reviewing or creating translations, ensure they match archaeological contexts:
+
+**Level 01 (Beginner) - Daily Life:**
+- Simple, practical vocabulary (water, food, tools, basic activities)
+- Personal and domestic contexts (family meals, household tasks)
+- Basic commercial activities (simple trade, water collection)
+- Elementary religious practices (daily prayers, basic offerings)
+
+**Level 02 (Intermediate) - Cultural Sophistication:**
+- Administrative language (legal disputes, diplomatic correspondence)
+- Elite commerce (credit systems, quality assurance, international trade)
+- Academic discourse (scholarly debates, scientific observations)
+- Advanced military concepts (tactical formations, intelligence gathering)
+- Complex ceremonial practices (ritual instructions, community blessings)
+
+### Common Translation Improvements
+
+Based on validation work, avoid these patterns:
+
+**Generic Translations** → **Context-Specific Alternatives:**
+- "I see hard ones" → "I count our tools" (household inventory)
+- "You see stone" → "You inspect goods" (merchant quality check)
+- "They speak of fire" → "They signal with fire" (military communications)
+- "I love forest sweet ones" → "I study forest sweet ones" (scholarly research)
+
+### Morphological Analysis Tools
+
+Use the dictionary's `morpheme_patterns` for:
+- **Verb classification**: Identify action_verbs (ašu), creation_verbs (šu), motion_verbs (ešu)
+- **Construction validation**: Verify compounds follow established formulas
+- **Type grouping**: Organize vocabulary by grammatical function
+
+## Content Quality Standards
+
+### Archaeological Note Guidelines
+
+**Effective Notes Include:**
+- **Physical discovery context**: exact location, associated artifacts
+- **Script characteristics**: formality level, wear patterns, material quality
+- **Cultural significance**: intended audience, social context, usage patterns
+- **Preservation state**: damage patterns, environmental factors
+
+**Example Quality Improvements:**
+- ❌ "Formal military script?" → ✅ "Formal military script indicating supply requisition"
+- ❌ "Found in temple" → ✅ "Found buried beneath prayer mat remnants with emotional urgency in carving depth"
+
+### Translation Context Alignment
+
+Ensure translations reflect their archaeological settings:
+
+**Military Contexts**: Use directive, precise language (signal, requisition, formation)
+**Commercial Contexts**: Use transactional language (inspect, trade, evaluate)
+**Domestic Contexts**: Use personal, practical language (tend, count, collect)
+**Academic Contexts**: Use analytical language (study, observe, analyze)
+**Ceremonial Contexts**: Use formal, ritual language (invoke, bless, purify)
+
+## Technical Development Notes
+
+### Flask Application Features
+
+**Legacy Viewer** (`/viewer/`):
+- Hot reload development server
+- Markdown rendering with file navigation
+- Individual file display with context preservation
+
+**New Webapp** (`/webapp/`):
+- Foldable table interface organized by difficulty
+- Bulk loading with load_all_texts() function
+- Level-based organization with visual headers
+- Comprehensive site information display
+
+### Docker Configuration
+
+Current setup optimized for webapp deployment:
+- Production-ready environment with proper requirements
+- Automated dependency management
+- Scalable containerization for web serving
+
+### JSON Structure Validation
+
+When editing source files, maintain strict structure:
+```json
+{
+    "name": "Site Name",
+    "context": "Archaeological and cultural background...",
+    "texts": [
+        {
+            "name": "Text Name",
+            "sasiran": "Sasiran language text following SOV grammar",
+            "script": "𐊖𐊀 corresponding Lycian script representation", 
+            "translation": "Contextually appropriate English translation",
+            "notes": "Discovery context and archaeological significance"
+        }
+    ]
+}
+```
+
+---
+
 ## Quick Start Commands for AI Assistants
 
 ### Essential Files to Read First

@@ -18,16 +18,16 @@
         },
         {
             "name": "Legal Dispute Resolution",
-            "sasiran": "Šu sa nu [...] šerašu žafšu. Ašmru malru hurašu.",
-            "script": "𐊔𐊅 𐊎𐊀 𐊍𐊅 [...] 𐊔𐊄𐊓𐊀𐊔𐊅 𐊆𐊀𐊐𐊔𐊅. 𐊀𐊔𐊌𐊓𐊅 𐊌𐊀𐊋𐊓𐊅 𐊇𐊅𐊓𐊀𐊔𐊅.",
-            "translation": "You with me [...] love and speak. Hard ones, smooth ones deepen.",
+            "sasiran": "Šu sa nu [...] žarašu žafšu. Ašmru malru hurašu.",
+            "script": "𐊔𐊅 𐊎𐊀 𐊍𐊅 [...] 𐊆𐊀𐊓𐊀𐊔𐊅 𐊆𐊀𐊐𐊔𐊅. 𐊀𐊔𐊌𐊓𐊅 𐊌𐊀𐊋𐊓𐊅 𐊇𐊅𐊓𐊀𐊔𐊅.",
+            "translation": "You with me [...] arbitrate disputes. Hard cases, smooth cases deepen.",
             "notes": "Discovered in courthouse chamber. Legal terminology with witness signature marks."
         },
         {
             "name": "Population Census Data",
             "sasiran": "Luru sanu [...] šuru mešu žafašu. Ralru surru gahšu.",
             "script": "𐊋𐊅𐊓𐊅 𐊎𐊀𐊍𐊅 [...] 𐊔𐊅𐊓𐊅 𐊌𐊄𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅. 𐊓𐊀𐊋𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊂𐊀𐊇𐊔𐊅.",
-            "translation": "They we [...] you all eat water and fire. Old ones, new ones enlarge.",
+            "translation": "They we [...] you all eat water. Old ones, new ones enlarge.",
             "notes": "Found in census bureau. Methodical administrative script with household counting symbols."
         },
         {
@@ -39,9 +39,9 @@
         },
         {
             "name": "Inter-Settlement Correspondence",
-            "sasiran": "Sa luru [...] šezašu šamšeru šenašu. Nehru ṣarru žafašu.",
-            "script": "𐊎𐊀 𐊋𐊅𐊓𐊅 [...] 𐊔𐊄𐊆𐊀𐊔𐊅 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅. 𐊍𐊄𐊇𐊓𐊅 𐊑𐊀𐊓𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅.",
-            "translation": "I they [...] grow dawn and see. Sweet ones, rough ones eat.",
+            "sasiran": "Sa luru [...] žarašu šamšeru šenašu. Nehru ṣarru žafašu.",
+            "script": "𐊎𐊀 𐊋𐊅𐊓𐊅 [...] 𐊆𐊀𐊓𐊀𐊔𐊅 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅. 𐊍𐊄𐊇𐊓𐊅 𐊑𐊀𐊓𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅.",
+            "translation": "I they [...] negotiate at dawn and see. Sweet terms, rough terms eat.",
             "notes": "Discovered in foreign affairs archive. Diplomatic script with translation notes in margins."
         },
         {

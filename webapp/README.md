@@ -7,7 +7,7 @@ A simple Flask application for viewing Sasiran archaeological texts in a table f
 - Displays all texts from JSON files in the `../sources/` directory
 - Shows only the "name", "script", and "notes" fields in a clean table
 - Responsive design with archaeological theming
-- Proper Lycian script rendering
+- Proper Sasiran script rendering
 
 ## Quick Start
 

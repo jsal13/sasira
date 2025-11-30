@@ -25,10 +25,10 @@
         },
         {
             "name": "Household Inventory",
-            "sasiran": "Sa ašmru šenašu.",
-            "script": "𐊖𐊀 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "sasiran": "Sa sanu ṣir ženašu.",
+            "script": "𐊖𐊀 𐊖𐊀𐊌𐊚 𐊑𐊉𐊓 𐊆𐊄𐊍𐊀𐊔𐊅",
             "notes": "Located in storage room. Methodical script with check marks - appears to be possession tracking.",
-            "translation": "I see hard ones."
+            "translation": "I count our tools."
         },
         {
             "name": "Water Collection",
@@ -39,10 +39,10 @@
         },
         {
             "name": "Garden Notes",
-            "sasiran": "Šu nehru šenšu.",
-            "script": "𐊖𐊚 𐊍𐊄𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
+            "sasiran": "Šu nehru ženšu.",
+            "script": "𐊖𐊚 𐊍𐊄𐊇𐊓𐊅 𐊆𐊄𐊍𐊔𐊅",
             "notes": "Discovered buried in garden plot. Weather-worn script with soil stains - outdoor use evident.",
-            "translation": "You watch sweet ones."
+            "translation": "You tend sweet plants."
         },
         {
             "name": "Family Communication",
