@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  sasira-viewer:
+    build: .
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./sources:/app/sources:ro
+      - ./solutions:/app/solutions:ro
+      - ./reference:/app/reference:ro
+    environment:
+      - FLASK_ENV=development
+    restart: unless-stopped
