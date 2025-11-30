@@ -1,0 +1,62 @@
+{
+    "name": "Marketplace",
+    "context": "Discovered on small clay tablets among the ruins of what appears to be merchant stalls in the old marketplace. The tablets were remarkably well preserved, suggesting they were fired clay rather than simple dried mud. Several tablets were found together, indicating they may have been part of a merchant's records or public announcements.",
+    "texts": [
+        {
+            "name": "Merchant's Daily Record",
+            "sasiran": "Sa mešu ṣirašu.",
+            "script": "𐊀 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "translation": "I carry water.",
+            "notes": "Found beneath a collapsed stone counter. Hastily carved with casual script - likely a personal note."
+        },
+        {
+            "name": "Trade Announcement",
+            "sasiran": "Luru nehšu žafšu.",
+            "script": "𐊍𐊅𐊓𐊅 𐊍𐊄𐊇𐊔𐊅 𐊆𐊀𐊐𐊔𐊅",
+            "translation": "They speak of fruit.",
+            "notes": "Discovered near the central plaza entrance. Formal script suggests this was a public proclamation."
+        },
+        {
+            "name": "Inventory List",
+            "sasiran": "Šu ašmu šenašu.",
+            "script": "𐊔𐊅 𐊀𐊔𐊌 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "translation": "You see stone.",
+            "notes": "Found among pottery shards. Clean, precise carving indicates professional record-keeping."
+        },
+        {
+            "name": "Customer Request",
+            "sasiran": "Sa šu nehru žafašu.",
+            "script": "𐊀 𐊔𐊅 𐊍𐊄𐊇𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅",
+            "translation": "I eat sweet things for you.",
+            "notes": "Small tablet found near food preparation area. Informal script with finger marks still visible in clay."
+        },
+        {
+            "name": "Payment Record",
+            "sasiran": "Lu ašmu ṣirašu.",
+            "script": "𐊍𐊅 𐊀𐊔𐊌 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "translation": "They carry stone.",
+            "notes": "Located in what appears to be a money-changer's booth. Very orderly script, possibly official documentation."
+        },
+        {
+            "name": "Quality Check",
+            "sasiran": "Sanu ašmru šenašu.",
+            "script": "𐊀𐊌𐊅 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "translation": "We see hard ones.",
+            "notes": "Recovered from a tool merchant's stall. Script shows careful inspection marks between words."
+        },
+        {
+            "name": "Water Trade",
+            "sasiran": "Šuru mešu ṣirašu.",
+            "script": "𐊔𐊅𐊓𐊅 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "translation": "You (all) carry water.",
+            "notes": "Found near ancient well remains. Writing appears weathered, suggesting outdoor use."
+        },
+        {
+            "name": "Fire Sale",
+            "sasiran": "Luru šuru žafšu.",
+            "script": "𐊍𐊅𐊓𐊅 𐊔𐊅𐊓𐊅 𐊆𐊀𐊐𐊔𐊅",
+            "translation": "They speak of fire.",
+            "notes": "Discovered in charcoal merchant's area. Script shows heat damage but remains legible - possibly a price list."
+        }
+    ]
+}

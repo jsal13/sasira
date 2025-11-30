@@ -1,0 +1,62 @@
+{
+    "name": "Merchant Quarter Elite",
+    "context": "These sophisticated commercial tablets were excavated from the upscale merchant district, where wealthy traders conducted international commerce. The tablets show advanced business practices including credit systems, quality assurance protocols, and luxury goods trading. The script quality indicates professional scribes and educated merchants.",
+    "texts": [
+        {
+            "name": "Luxury Goods Import Contract",
+            "sasiran": "Luru sanu nu [...] žihru si ṣirašu. Šamru malru gahšu.",
+            "script": "𐊋𐊅𐊓𐊅 𐊎𐊀𐊍𐊅 𐊍𐊅 [...] 𐊆𐊉𐊇𐊓𐊅 𐊎𐊉 𐊑𐊉𐊓𐊀𐊔𐊅. 𐊔𐊀𐊌𐊓𐊅 𐊌𐊀𐊋𐊓𐊅 𐊂𐊀𐊇𐊔𐊅.",
+            "translation": "They with us [...] carry sparkling silver. Bright ones, smooth ones enlarge.",
+            "notes": "Found in premium trader's vault. Ornate script with precious metal inlay decorations."
+        },
+        {
+            "name": "Credit System Documentation",
+            "sasiran": "Sa šuru luru [...] šerašu ašmru šenašu. Nehru šarru žafšu.",
+            "script": "𐊎𐊀 𐊔𐊅𐊓𐊅 𐊋𐊅𐊓𐊅 [...] 𐊔𐊄𐊓𐊀𐊔𐊅 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅. 𐊍𐊄𐊇𐊓𐊅 𐊔𐊀𐊓𐊓𐊅 𐊆𐊀𐊐𐊔𐊅.",
+            "translation": "I fire they [...] love hard ones and see. Sweet ones, bitter ones speak.",
+            "notes": "Discovered in banking chamber. Complex financial script with interest calculation tables."
+        },
+        {
+            "name": "Quality Assurance Protocol",
+            "sasiran": "Šuru nehšu [...] malšu ašmšu šenašu. Želru sefru hurašu.",
+            "script": "𐊔𐊅𐊓𐊅 𐊍𐊄𐊇𐊔𐊅 [...] 𐊌𐊀𐊋𐊔𐊅 𐊀𐊔𐊌𐊔𐊅 𐊔𐊄𐊍𐊀𐊔𐊅. 𐊆𐊄𐊋𐊓𐊅 𐊎𐊄𐊐𐊓𐊅 𐊇𐊅𐊓𐊀𐊔𐊅.",
+            "translation": "You all fruit [...] smooth, harden and see. Green ones, tall ones deepen.",
+            "notes": "Located in inspection facility. Technical script with grading standards and quality marks."
+        },
+        {
+            "name": "International Trade Agreement",
+            "sasiran": "Sanu [...] šezru ašmgah ṣirašu žafašu. Ralru surru ešu.",
+            "script": "𐊎𐊀𐊍𐊅 [...] 𐊔𐊄𐊆𐊓𐊅 𐊀𐊔𐊌𐊂𐊀𐊇 𐊑𐊉𐊓𐊀𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅. 𐊓𐊀𐊋𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "We [...] carry and eat forest mountains. Old ones, new ones move.",
+            "notes": "Found in diplomatic merchant office. Multilingual script with foreign language annotations."
+        },
+        {
+            "name": "Warehouse Inventory System",
+            "sasiran": "Lu mešu šuru [...] gahšu zuršu šenšu. Šihru malru žafšu.",
+            "script": "𐊋𐊅 𐊌𐊄𐊔𐊅 𐊔𐊅𐊓𐊅 [...] 𐊂𐊀𐊇𐊔𐊅 𐊆𐊅𐊓𐊔𐊅 𐊔𐊄𐊍𐊔𐊅. 𐊔𐊉𐊇𐊓𐊅 𐊌𐊀𐊋𐊓𐊅 𐊆𐊀𐊐𐊔𐊅.",
+            "translation": "They water fire [...] enlarge, shrink and watch. Fast ones, smooth ones speak.",
+            "notes": "Discovered in storage management office. Systematic script with inventory tracking symbols."
+        },
+        {
+            "name": "Profit Analysis Record",
+            "sasiran": "Šu sa nu [...] šamšeru žihru zerašu. Ṣarru nehru šifašu.",
+            "script": "𐊔𐊅 𐊎𐊀 𐊍𐊅 [...] 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊆𐊉𐊇𐊓𐊅 𐊆𐊄𐊓𐊀𐊔𐊅. 𐊑𐊀𐊓𐊓𐊅 𐊍𐊄𐊇𐊓𐊅 𐊔𐊉𐊐𐊀𐊔𐊅.",
+            "translation": "You me with [...] heat dawn and stars. Rough ones, sweet ones cool.",
+            "notes": "Located in accounting chamber. Analytical script with profit calculations and trend analysis."
+        },
+        {
+            "name": "Luxury Client Registry",
+            "sasiran": "Luru šuru [...] šezašu mešu ṣiršu. Ḫarru zurru gahšu.",
+            "script": "𐊋𐊅𐊓𐊅 𐊔𐊅𐊓𐊅 [...] 𐊔𐊄𐊆𐊀𐊔𐊅 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊔𐊅. 𐊇𐊀𐊓𐊓𐊅 𐊆𐊅𐊓𐊓𐊅 𐊂𐊀𐊇𐊔𐊅.",
+            "translation": "They fire [...] grow water and build. Red ones, small ones enlarge.",
+            "notes": "Found in elite client services. Prestigious script with customer preference notations."
+        },
+        {
+            "name": "Supply Chain Logistics",
+            "sasiran": "Sa luru nu [...] šulsur mehuš nasšu. Želru ašmru ešu.",
+            "script": "𐊎𐊀 𐊋𐊅𐊓𐊅 𐊍𐊅 [...] 𐊔𐊅𐊋𐊎𐊅𐊓 𐊌𐊄𐊇𐊅𐊔 𐊍𐊀𐊎𐊔𐊅. 𐊆𐊄𐊋𐊓𐊅 𐊀𐊔𐊌𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "I they with [...] listen to storms and rivers. Green ones, hard ones move.",
+            "notes": "Discovered in logistics planning center. Strategic script with transportation route maps."
+        }
+    ]
+}

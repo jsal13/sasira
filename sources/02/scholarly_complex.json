@@ -1,0 +1,62 @@
+{
+    "name": "Scholarly Complex",
+    "context": "These advanced tablets were excavated from what appears to be an ancient academy or library. The complex features multiple chambers with different specializations - astronomy, medicine, mathematics, and natural philosophy. Many tablets show scholarly discourse, with corrections and annotations in multiple hands suggesting collaborative study.",
+    "texts": [
+        {
+            "name": "Astronomical Calculations",
+            "sasiran": "Luru žihru sinu nu šenšu. Šamšeru [...] ralru surru gahšu.",
+            "script": "𐊋𐊅𐊓𐊅 𐊆𐊉𐊇𐊓𐊅 𐊎𐊉𐊍𐊅 𐊍𐊅 𐊔𐊄𐊍𐊔𐊅. 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 [...] 𐊓𐊀𐊋𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊂𐊀𐊇𐊔𐊅.",
+            "translation": "They watch stars and moon together. Dawn [...] old ones, new ones enlarge.",
+            "notes": "Found in star observation chamber. Precise script with mathematical symbols along margins."
+        },
+        {
+            "name": "Medical Herb Study",
+            "sasiran": "Sa šezru nehru [...] šerašu. Malru ṣarru žafašu.",
+            "script": "𐊎𐊀 𐊔𐊄𐊆𐊓𐊅 𐊍𐊄𐊇𐊓𐊅 [...] 𐊔𐊄𐊓𐊀𐊔𐊅. 𐊌𐊀𐊋𐊓𐊅 𐊑𐊀𐊓𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅.",
+            "translation": "I love forest sweet ones [...]. Smooth ones, rough ones eat.",
+            "notes": "Discovered in healing chamber. Script shows detailed botanical drawings between text sections."
+        },
+        {
+            "name": "Natural Philosophy Debate",
+            "sasiran": "Šuru ašmgah mehuš [...] hurašu sefašu. Zurru gahru ešu.",
+            "script": "𐊔𐊅𐊓𐊅 𐊀𐊔𐊌𐊂𐊀𐊇 𐊌𐊄𐊇𐊅𐊔 [...] 𐊇𐊅𐊓𐊀𐊔𐊅 𐊎𐊄𐊐𐊀𐊔𐊅. 𐊆𐊅𐊓𐊓𐊅 𐊂𐊀𐊇𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "You all [...] deepen and heighten mountains and rivers. Small ones, large ones move.",
+            "notes": "Located in philosophy hall. Multiple hands visible - shows scholarly argument format."
+        },
+        {
+            "name": "Mathematical Treatise",
+            "sasiran": "Sanu ašmru zurru [...] šamru gahšu. Lu žel ḫar šenašu.",
+            "script": "𐊎𐊀𐊍𐊅 𐊀𐊔𐊌𐊓𐊅 𐊆𐊅𐊓𐊓𐊅 [...] 𐊔𐊀𐊌𐊓𐊅 𐊂𐊀𐊇𐊔𐊅. 𐊋𐊅 𐊆𐊄𐊋 𐊇𐊀𐊓 𐊔𐊄𐊍𐊀𐊔𐊅.",
+            "translation": "We see hard ones small [...] bright ones enlarge. They see green and red.",
+            "notes": "Found in calculation chamber. Geometric diagrams accompany text - numerical relationships."
+        },
+        {
+            "name": "Student Exercise Tablet",
+            "sasiran": "Šu nehšu šezašu [...] mešu ṣirašu. Šihru lenru žafšu.",
+            "script": "𐊔𐊅 𐊍𐊄𐊇𐊔𐊅 𐊔𐊄𐊆𐊀𐊔𐊅 [...] 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅. 𐊔𐊉𐊇𐊓𐊅 𐊋𐊄𐊍𐊓𐊅 𐊆𐊀𐊐𐊔𐊅.",
+            "translation": "You grow fruit [...] carry water. Fast ones, slow ones speak.",
+            "notes": "Discovered in student quarters. Beginner's script with teacher corrections in different ink."
+        },
+        {
+            "name": "Advanced Logic Discussion",
+            "sasiran": "Luru sanu nu [...] žihru šenšu ašmšu. Ralru surru malšu.",
+            "script": "𐊋𐊅𐊓𐊅 𐊎𐊀𐊍𐊅 𐊍𐊅 [...] 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅 𐊀𐊔𐊌𐊔𐊅. 𐊓𐊀𐊋𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊌𐊀𐊋𐊔𐊅.",
+            "translation": "They with us [...] watch stars and harden. Old ones, new ones smooth.",
+            "notes": "Located in advanced study hall. Complex argumentation structure with logical connectives."
+        },
+        {
+            "name": "Weather Observation Record",
+            "sasiran": "Sa šulsur [...] žafšu murašu. Zerru šifru ešu šamšu.",
+            "script": "𐊎𐊀 𐊔𐊅𐊋𐊎𐊅𐊓 [...] 𐊆𐊀𐊐𐊔𐊅 𐊌𐊅𐊓𐊀𐊔𐊅. 𐊆𐊄𐊓𐊓𐊅 𐊔𐊉𐊐𐊓𐊅 𐊄𐊔𐊅 𐊔𐊀𐊌𐊔𐊅.",
+            "translation": "I [...] speak of storms and rain. Hot ones, cold ones move and brighten.",
+            "notes": "Found in meteorology chamber. Systematic observations with seasonal correlation charts."
+        },
+        {
+            "name": "Comparative Language Study",
+            "sasiran": "Šuru [...] žafšu žel ḫar. Nehru šarru šena malšu.",
+            "script": "𐊔𐊅𐊓𐊅 [...] 𐊆𐊀𐊐𐊔𐊅 𐊆𐊄𐊋 𐊇𐊀𐊓. 𐊍𐊄𐊇𐊓𐊅 𐊔𐊀𐊓𐊓𐊅 𐊔𐊄𐊍𐊀 𐊌𐊀𐊋𐊔𐊅.",
+            "translation": "You all [...] speak green and red. Sweet ones, bitter ones see and smooth.",
+            "notes": "Discovered in linguistics study. Foreign script samples alongside Sasiran - comparative analysis."
+        }
+    ]
+}

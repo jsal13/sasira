@@ -1,0 +1,55 @@
+{
+    "name": "Artisan Workshop",
+    "context": "Excavated from what appears to be a craftsman's workshop, these tablets were found scattered among tool fragments and pottery shards. The workspace shows evidence of metalworking and stone carving. Several tablets were found pressed into clay storage jars, suggesting they served as inventory or instruction records for apprentices.",
+    "texts": [
+        {
+            "name": "Tool Inventory",
+            "sasiran": "Sa ṣir ašmru šenašu.",
+            "script": "𐊖𐊀 𐊑𐊉𐊓 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "notes": "Found embedded in workbench. Script shows tool marks from repeated reference during work.",
+            "translation": "I see hand hard ones."
+        },
+        {
+            "name": "Apprentice Instructions",
+            "sasiran": "Šu ašmu malšu.",
+            "script": "𐊖𐊚 𐊀𐊔𐊌 𐊌𐊀𐊋𐊔𐊅",
+            "notes": "Discovered in teaching area. Large, clear script designed for learning - shows repeated tracing.",
+            "translation": "You smooth stone."
+        },
+        {
+            "name": "Material Order",
+            "sasiran": "Luru ašmu ṣirašu.",
+            "script": "𐊍𐊚𐊗𐊚 𐊀𐊔𐊌 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "notes": "Located near storage area. Formal script suggests communication with suppliers.",
+            "translation": "They carry stone."
+        },
+        {
+            "name": "Quality Check",
+            "sasiran": "Sanu malru šenašu.",
+            "script": "𐊖𐊀𐊌𐊚 𐊌𐊀𐊋𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "notes": "Found among finished goods. Precise script with measurement marks along edges.",
+            "translation": "We see smooth ones."
+        },
+        {
+            "name": "Fire Management",
+            "sasiran": "Lu šuru zerašu.",
+            "script": "𐊍𐊚 𐊔𐊅𐊓𐊅 𐊆𐊄𐊓𐊀𐊔𐊅",
+            "notes": "Discovered near furnace remains. Heat-cracked but legible - shows forge temperature notes.",
+            "translation": "They heat fire."
+        },
+        {
+            "name": "Water Supply",
+            "sasiran": "Sa mešu ṣirašu.",
+            "script": "𐊖𐊀 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "notes": "Found near water basin. Casual script suggests daily routine documentation.",
+            "translation": "I carry water."
+        },
+        {
+            "name": "Workshop Rules",
+            "sasiran": "Šuru ašmru ašmšu.",
+            "script": "𐊖𐊚𐊗𐊚 𐊀𐊔𐊌𐊓𐊅 𐊀𐊔𐊌𐊔𐊅",
+            "notes": "Posted near workshop entrance. Authoritative script indicating master craftsman's rules.",
+            "translation": "You all harden hard ones."
+        }
+    ]
+}

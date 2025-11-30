@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sasiran Archaeological Texts</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f0;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            color: #8b4513;
+            text-align: center;
+            border-bottom: 3px solid #d2691e;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        
+        .difficulty-header {
+            background: linear-gradient(135deg, #d2691e, #8b4513);
+            color: white;
+            padding: 20px;
+            margin: 30px 0 10px 0;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        
+        .difficulty-header:first-of-type {
+            margin-top: 0;
+        }
+        
+        .collapsible {
+            cursor: pointer;
+            padding: 15px 20px;
+            background-color: #8b4513;
+            color: white;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+            border-radius: 8px 8px 0 0;
+            margin-top: 20px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .collapsible:hover {
+            background-color: #654321;
+        }
+        
+        .collapsible.active {
+            background-color: #654321;
+        }
+        
+        .collapsible::after {
+            content: '▼';
+            font-size: 12px;
+            transition: transform 0.3s;
+        }
+        
+        .collapsible.active::after {
+            transform: rotate(180deg);
+        }
+        
+        .content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+            background-color: white;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .content.show {
+            max-height: 2000px;
+        }
+        
+        .site-info {
+            padding: 15px 20px;
+            background-color: #f9f9f9;
+            border-bottom: 1px solid #e0e0e0;
+            font-style: italic;
+            color: #666;
+        }
+        
+        .file-header {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        
+        .file-title {
+            font-size: 18px;
+        }
+        
+        .file-meta {
+            font-size: 14px;
+            font-weight: normal;
+            opacity: 0.8;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th {
+            background-color: #8b4513;
+            color: white;
+            padding: 15px 12px;
+            text-align: left;
+            font-weight: bold;
+            border-bottom: 2px solid #654321;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e0e0e0;
+            vertical-align: top;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        
+        tr:hover {
+            background-color: #f0e68c;
+        }
+        
+        .script-cell {
+            font-family: 'Noto Sans', 'Arial Unicode MS', sans-serif;
+            font-size: 18px;
+            direction: ltr;
+            text-align: left;
+        }
+        
+        .notes-cell {
+            font-style: italic;
+            color: #666;
+            max-width: 300px;
+        }
+        
+        .name-cell {
+            font-weight: bold;
+            color: #8b4513;
+        }
+        
+        .source-info {
+            font-size: 0.8em;
+            color: #999;
+            margin-top: 5px;
+        }
+        
+        .total-count {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e6ddd4;
+            border-radius: 5px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sasiran Archaeological Text Collection</h1>
+        
+        {% for difficulty, files_data in difficulty_groups.items() %}
+            {% if files_data %}
+            <div class="difficulty-header">
+                {% if difficulty == '01' %}
+                    Level 01 - Beginner Archaeological Sites
+                {% elif difficulty == '02' %}
+                    Level 02 - Intermediate Archaeological Sites
+                {% else %}
+                    Level {{ difficulty }}
+                {% endif %}
+            </div>
+            
+            {% for file_data in files_data %}
+            <button class="collapsible" onclick="toggleContent(this)">
+                <div class="file-header">
+                    <div class="file-title">{{ file_data.site_name }}</div>
+                    <div class="file-meta">{{ file_data.text_count }} texts</div>
+                </div>
+            </button>
+            <div class="content">
+                {% if file_data.context %}
+                <div class="site-info">
+                    {{ file_data.context }}
+                </div>
+                {% endif %}
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Text Name</th>
+                            <th>Lycian Script</th>
+                            <th>Archaeological Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for text in file_data.texts %}
+                        <tr>
+                            <td class="name-cell">{{ text.name }}</td>
+                            <td class="script-cell">{{ text.script }}</td>
+                            <td class="notes-cell">{{ text.notes }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% endfor %}
+            {% endif %}
+        {% endfor %}
+        
+        <div class="total-count">
+            Total texts found: {{ total_texts }} across {{ difficulty_groups['01']|length + difficulty_groups['02']|length }} sites
+        </div>
+    </div>
+    
+    <script>
+        function toggleContent(button) {
+            button.classList.toggle("active");
+            const content = button.nextElementSibling;
+            content.classList.toggle("show");
+        }
+        
+        // Initially open the first section
+        document.addEventListener('DOMContentLoaded', function() {
+            const firstCollapsible = document.querySelector('.collapsible');
+            if (firstCollapsible) {
+                toggleContent(firstCollapsible);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{
+    "name": "Military Academy",
+    "context": "These advanced military tablets were discovered in the ruins of what appears to be an officer training facility. The complex featured tactical planning rooms, weapons testing grounds, and strategic studies chambers. The tablets contain sophisticated military doctrine, advanced tactics, and leadership training materials.",
+    "texts": [
+        {
+            "name": "Advanced Tactical Formation",
+            "sasiran": "Sanu luru nu [...] ašmgah žihru šenšu ṣiršu. Šihru gahru ešu.",
+            "script": "𐊎𐊀𐊍𐊅 𐊋𐊅𐊓𐊅 𐊍𐊅 [...] 𐊀𐊔𐊌𐊂𐊀𐊇 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅 𐊑𐊉𐊓𐊔𐊅. 𐊔𐊉𐊇𐊓𐊅 𐊂𐊀𐊇𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "We they with [...] watch stars on mountains and build. Fast ones, large ones move.",
+            "notes": "Found in tactics chamber. Military script with battle formation diagrams and movement arrows."
+        },
+        {
+            "name": "Strategic Resource Management",
+            "sasiran": "Lu šuru mešu [...] ašmu nehšu ṣirašu. Malru ṣarru hurašu.",
+            "script": "𐊋𐊅 𐊔𐊅𐊓𐊅 𐊌𐊄𐊔𐊅 [...] 𐊀𐊔𐊌 𐊍𐊄𐊇𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅. 𐊌𐊀𐊋𐊓𐊅 𐊑𐊀𐊓𐊓𐊅 𐊇𐊅𐊓𐊀𐊔𐊅.",
+            "translation": "They fire water [...] carry stone and fruit. Smooth ones, rough ones deepen.",
+            "notes": "Located in supply planning room. Logistical script with resource allocation charts and schedules."
+        },
+        {
+            "name": "Leadership Training Manual",
+            "sasiran": "Šu sa nu [...] šerašu žafšu nasšu. Ralru surru šamšu.",
+            "script": "𐊔𐊅 𐊎𐊀 𐊍𐊅 [...] 𐊔𐊄𐊓𐊀𐊔𐊅 𐊆𐊀𐊐𐊔𐊅 𐊍𐊀𐊎𐊔𐊅. 𐊓𐊀𐊋𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊔𐊀𐊌𐊔𐊅.",
+            "translation": "You me with [...] love, speak and listen. Old ones, new ones brighten.",
+            "notes": "Discovered in command training area. Instructional script with leadership philosophy and case studies."
+        },
+        {
+            "name": "Intelligence Gathering Protocol",
+            "sasiran": "Luru [...] šezru šulsur šenašu žafašu. Želru ḫarru šenšu.",
+            "script": "𐊋𐊅𐊓𐊅 [...] 𐊔𐊄𐊆𐊓𐊅 𐊔𐊅𐊋𐊎𐊅𐊓 𐊔𐊄𐊍𐊀𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅. 𐊆𐊄𐊋𐊓𐊅 𐊇𐊀𐊓𐊓𐊅 𐊔𐊄𐊍𐊔𐊅.",
+            "translation": "They [...] see and eat forest storms. Green ones, red ones watch.",
+            "notes": "Found in intelligence training facility. Covert operations script with coded symbols and ciphers."
+        },
+        {
+            "name": "Siege Warfare Tactics",
+            "sasiran": "Sanu ašmgah [...] gahšu sefašu ašmšu. Zurru žihru ešu.",
+            "script": "𐊎𐊀𐊍𐊅 𐊀𐊔𐊌𐊂𐊀𐊇 [...] 𐊂𐊀𐊇𐊔𐊅 𐊎𐊄𐊐𐊀𐊔𐊅 𐊀𐊔𐊌𐊔𐊅. 𐊆𐊅𐊓𐊓𐊅 𐊆𐊉𐊇𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "We mountains [...] enlarge, heighten and harden. Small ones, sparkling ones move.",
+            "notes": "Located in siege warfare chamber. Engineering script with fortification assault plans and equipment designs."
+        },
+        {
+            "name": "Naval Operations Manual",
+            "sasiran": "Lu mehuš [...] mešu šifašu zerašu. Šamru lenru žafšu.",
+            "script": "𐊋𐊅 𐊌𐊄𐊇𐊅𐊔 [...] 𐊌𐊄𐊔𐊅 𐊔𐊉𐊐𐊀𐊔𐊅 𐊆𐊄𐊓𐊀𐊔𐊅. 𐊔𐊀𐊌𐊓𐊅 𐊋𐊄𐊍𐊓𐊅 𐊆𐊀𐊐𐊔𐊅.",
+            "translation": "They rivers [...] cool and heat water. Bright ones, slow ones speak.",
+            "notes": "Discovered in maritime tactics room. Naval script with river navigation charts and fleet coordination."
+        },
+        {
+            "name": "Advanced Weapons Training",
+            "sasiran": "Šuru ašmu [...] ṣiršu malšu šenašu. Nehru ašmru gahšu.",
+            "script": "𐊔𐊅𐊓𐊅 𐊀𐊔𐊌 [...] 𐊑𐊉𐊓𐊔𐊅 𐊌𐊀𐊋𐊔𐊅 𐊔𐊄𐊍𐊀𐊔𐊅. 𐊍𐊄𐊇𐊓𐊅 𐊀𐊔𐊌𐊓𐊅 𐊂𐊀𐊇𐊔𐊅.",
+            "translation": "You all stone [...] build, smooth and see. Sweet ones, hard ones enlarge.",
+            "notes": "Found in weapons master's workshop. Technical script with metallurgy notes and combat techniques."
+        },
+        {
+            "name": "Psychological Warfare Studies",
+            "sasiran": "Sa luru [...] šerašu šamšeru nasšu žafšu. Šifru zerru ešu.",
+            "script": "𐊎𐊀 𐊋𐊅𐊓𐊅 [...] 𐊔𐊄𐊓𐊀𐊔𐊅 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊍𐊀𐊎𐊔𐊅 𐊆𐊀𐊐𐊔𐊅. 𐊔𐊉𐊐𐊓𐊅 𐊆𐊄𐊓𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "I they [...] love dawn, listen and speak. Cold ones, hot ones move.",
+            "notes": "Located in strategic planning chamber. Analytical script with enemy psychology assessments and morale tactics."
+        }
+    ]
+}

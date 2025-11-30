@@ -1,0 +1,779 @@
+{
+  "language": {
+    "name": "Sasiran",
+    "characteristics": {
+      "inspiration": "Akkadian",
+      "phonology": "sibilant-heavy",
+      "word_order": "SOV",
+      "morphology": "agglutinative"
+    }
+  },
+  "phonology": {
+    "sibilants": ["s", "z", "š", "ž", "ṣ", "ḫ"],
+    "vowels": ["a", "i", "u", "e", "o"],
+    "other_consonants": ["r", "l", "m", "n", "f", "h"],
+    "minimal_plosives": ["d", "g"]
+  },
+  "morphemes": {
+    "pronouns": {
+      "sa": {
+        "script": "𐊖𐊀",
+        "meaning": "I, me",
+        "type": "basic_pronoun"
+      },
+      "šu": {
+        "script": "𐊖𐊚",
+        "meaning": "you",
+        "type": "basic_pronoun"
+      },
+      "lu": {
+        "script": "𐊍𐊚",
+        "meaning": "he/she/it",
+        "type": "basic_pronoun"
+      }
+    },
+    "grammatical": {
+      "ru": {
+        "script": "𐊗𐊚",
+        "meaning": "many/plural",
+        "type": "plural_marker"
+      },
+      "nu": {
+        "script": "𐊍𐊅",
+        "meaning": "with/together",
+        "type": "conjunction"
+      }
+    },
+    "verbs": {
+      "ašu": {
+        "script": "𐊀𐊔𐊅",
+        "meaning": "to do/make",
+        "type": "general_action"
+      },
+      "ešu": {
+        "script": "𐊄𐊔𐊅",
+        "meaning": "to move",
+        "type": "motion"
+      },
+      "šu": {
+        "script": "𐊔𐊅",
+        "meaning": "to make/create",
+        "type": "creation"
+      }
+    },
+    "body_parts": {
+      "šen": {
+        "script": "𐊔𐊄𐊍",
+        "meaning": "eye/see",
+        "type": "sense_organ"
+      },
+      "nas": {
+        "script": "𐊍𐊀𐊎",
+        "meaning": "ear/hear",
+        "type": "sense_organ"
+      },
+      "žaf": {
+        "script": "𐊆𐊀𐊐",
+        "meaning": "mouth/opening",
+        "type": "body_part"
+      },
+      "ṣir": {
+        "script": "𐊑𐊉𐊓",
+        "meaning": "hand/grasp",
+        "type": "body_part"
+      },
+      "haš": {
+        "script": "𐊇𐊀𐊔",
+        "meaning": "foot/base",
+        "type": "body_part"
+      },
+      "šer": {
+        "script": "𐊔𐊄𐊓",
+        "meaning": "heart/center",
+        "type": "body_part"
+      }
+    },
+    "descriptors": {
+      "šam": {
+        "script": "𐊔𐊀𐊌",
+        "meaning": "bright",
+        "type": "light_quality"
+      },
+      "si": {
+        "script": "𐊎𐊉",
+        "meaning": "silver/pale",
+        "type": "color"
+      },
+      "žih": {
+        "script": "𐊆𐊉𐊇",
+        "meaning": "sparkle",
+        "type": "light_quality"
+      },
+      "me": {
+        "script": "𐊌𐊄",
+        "meaning": "flow",
+        "type": "motion_quality"
+      },
+      "ašm": {
+        "script": "𐊀𐊔𐊌",
+        "meaning": "hard",
+        "type": "material_quality"
+      },
+      "zur": {
+        "script": "𐊆𐊅𐊓",
+        "meaning": "small",
+        "type": "size_quality"
+      },
+      "gah": {
+        "script": "𐊂𐊀𐊇",
+        "meaning": "big/large",
+        "type": "size_quality"
+      },
+      "zer": {
+        "script": "𐊆𐊄𐊓",
+        "meaning": "hot",
+        "type": "temperature_quality"
+      },
+      "šif": {
+        "script": "𐊔𐊉𐊐",
+        "meaning": "cold",
+        "type": "temperature_quality"
+      },
+      "neh": {
+        "script": "𐊍𐊄𐊇",
+        "meaning": "sweet",
+        "type": "taste_quality"
+      },
+      "šar": {
+        "script": "𐊔𐊀𐊓",
+        "meaning": "bitter",
+        "type": "taste_quality"
+      },
+      "hur": {
+        "script": "𐊇𐊅𐊓",
+        "meaning": "deep",
+        "type": "spatial_quality"
+      },
+      "sef": {
+        "script": "𐊎𐊄𐊐",
+        "meaning": "high/tall",
+        "type": "spatial_quality"
+      },
+      "mal": {
+        "script": "𐊌𐊀𐊋",
+        "meaning": "smooth",
+        "type": "texture_quality"
+      },
+      "ṣar": {
+        "script": "𐊑𐊀𐊓",
+        "meaning": "rough",
+        "type": "texture_quality"
+      },
+      "ših": {
+        "script": "𐊔𐊉𐊇",
+        "meaning": "fast/quick",
+        "type": "motion_quality"
+      },
+      "len": {
+        "script": "𐊋𐊄𐊍",
+        "meaning": "slow",
+        "type": "motion_quality"
+      },
+      "sur": {
+        "script": "𐊎𐊅𐊓",
+        "meaning": "new",
+        "type": "temporal_quality"
+      },
+      "ral": {
+        "script": "𐊓𐊀𐊋",
+        "meaning": "old",
+        "type": "temporal_quality"
+      },
+      "žel": {
+        "script": "𐊆𐊄𐊋",
+        "meaning": "green",
+        "type": "color"
+      },
+      "ḫar": {
+        "script": "𐊇𐊀𐊓",
+        "meaning": "red",
+        "type": "color"
+      }
+    },
+    "nature": {
+      "šez": {
+        "script": "𐊔𐊄𐊆",
+        "meaning": "tree",
+        "type": "plant"
+      },
+      "lem": {
+        "script": "𐊋𐊄𐊌",
+        "meaning": "leaf",
+        "type": "plant_part"
+      },
+      "ṣub": {
+        "script": "𐊑𐊅𐊁",
+        "meaning": "root",
+        "type": "plant_part"
+      },
+      "nef": {
+        "script": "𐊍𐊄𐊐",
+        "meaning": "flower",
+        "type": "plant_part"
+      },
+      "šul": {
+        "script": "𐊔𐊅𐊋",
+        "meaning": "wind",
+        "type": "weather"
+      },
+      "mur": {
+        "script": "𐊌𐊅𐊓",
+        "meaning": "rain",
+        "type": "weather"
+      }
+    }
+  },
+  "words": {
+    "pronouns": {
+      "sanu": {
+        "script": "𐊖𐊀𐊌𐊚",
+        "meaning": "we",
+        "construction": {
+          "pattern": "pronoun + conjunction",
+          "components": ["sa", "nu"],
+          "formula": "{pronoun} + nu = inclusive_plural"
+        }
+      },
+      "šuru": {
+        "script": "𐊖𐊚𐊗𐊚",
+        "meaning": "you (plural)",
+        "construction": {
+          "pattern": "pronoun + plural",
+          "components": ["šu", "ru"],
+          "formula": "{pronoun} + ru = plural"
+        }
+      },
+      "luru": {
+        "script": "𐊍𐊚𐊗𐊚",
+        "meaning": "they",
+        "construction": {
+          "pattern": "pronoun + plural",
+          "components": ["lu", "ru"],
+          "formula": "{pronoun} + ru = plural"
+        }
+      }
+    },
+    "verbs": {
+      "šenašu": {
+        "script": "𐊔𐊄𐊍𐊀𐊔𐊅",
+        "meaning": "to see",
+        "construction": {
+          "pattern": "sense_organ + action",
+          "components": ["šen", "ašu"],
+          "formula": "{sense_organ} + ašu = sense_verb"
+        }
+      },
+      "nasašu": {
+        "script": "𐊍𐊀𐊎𐊀𐊔𐊅",
+        "meaning": "to hear",
+        "construction": {
+          "pattern": "sense_organ + action",
+          "components": ["nas", "ašu"],
+          "formula": "{sense_organ} + ašu = sense_verb"
+        }
+      },
+      "žafašu": {
+        "script": "𐊆𐊀𐊐𐊀𐊔𐊅",
+        "meaning": "to eat",
+        "construction": {
+          "pattern": "body_part + action",
+          "components": ["žaf", "ašu"],
+          "formula": "{body_part} + ašu = action_verb"
+        }
+      },
+      "žafšu": {
+        "script": "𐊆𐊀𐊐𐊔𐊅",
+        "meaning": "to speak",
+        "construction": {
+          "pattern": "body_part + creation",
+          "components": ["žaf", "šu"],
+          "formula": "{body_part} + šu = creation_verb"
+        }
+      },
+      "ṣirašu": {
+        "script": "𐊑𐊉𐊓𐊀𐊔𐊅",
+        "meaning": "to carry",
+        "construction": {
+          "pattern": "body_part + action",
+          "components": ["ṣir", "ašu"],
+          "formula": "{body_part} + ašu = action_verb"
+        }
+      }
+    },
+    "celestial": {
+      "šamšu": {
+        "script": "𐊔𐊀𐊌𐊔𐊅",
+        "meaning": "sun",
+        "construction": {
+          "pattern": "quality + shape",
+          "components": ["šam", "šu"],
+          "formula": "{light_quality} + šu = celestial_object"
+        }
+      },
+      "sinu": {
+        "script": "𐊎𐊉𐊍𐊅",
+        "meaning": "moon",
+        "construction": {
+          "pattern": "color + conjunction",
+          "components": ["si", "nu"],
+          "formula": "{color} + nu = celestial_object"
+        }
+      },
+      "žihru": {
+        "script": "𐊆𐊉𐊇𐊓𐊅",
+        "meaning": "stars",
+        "construction": {
+          "pattern": "quality + plural",
+          "components": ["žih", "ru"],
+          "formula": "{light_quality} + ru = multiple_celestial"
+        }
+      }
+    },
+    "nouns": {
+      "mešu": {
+        "script": "𐊌𐊄𐊔𐊅",
+        "meaning": "water",
+        "construction": {
+          "pattern": "quality + thing",
+          "components": ["me", "šu"],
+          "formula": "{motion_quality} + šu = substance"
+        }
+      },
+      "šuru": {
+        "script": "𐊔𐊅𐊓𐊅",
+        "meaning": "fire",
+        "construction": {
+          "pattern": "quality + energy",
+          "components": ["šu", "ru"],
+          "formula": "{light_quality} + ru = energy_substance"
+        }
+      },
+      "ašmu": {
+        "script": "𐊀𐊔𐊌",
+        "meaning": "stone",
+        "construction": {
+          "pattern": "quality + thing_marker",
+          "components": ["ašm"],
+          "formula": "{material_quality} + u = solid_object"
+        }
+      }
+    },
+    "new_verbs": {
+      "šezašu": {
+        "script": "𐊔𐊄𐊆𐊀𐊔𐊅",
+        "meaning": "to grow",
+        "construction": {
+          "pattern": "plant + action",
+          "components": ["šez", "ašu"],
+          "formula": "{plant} + ašu = plant_action_verb"
+        }
+      },
+      "šulešu": {
+        "script": "𐊔𐊅𐊋𐊄𐊔𐊅",
+        "meaning": "to blow",
+        "construction": {
+          "pattern": "wind + motion",
+          "components": ["šul", "ešu"],
+          "formula": "{weather} + ešu = weather_verb"
+        }
+      },
+      "murašu": {
+        "script": "𐊌𐊅𐊓𐊀𐊔𐊅",
+        "meaning": "to rain",
+        "construction": {
+          "pattern": "rain + action",
+          "components": ["mur", "ašu"],
+          "formula": "{weather} + ašu = weather_verb"
+        }
+      },
+      "šerašu": {
+        "script": "𐊔𐊄𐊓𐊀𐊔𐊅",
+        "meaning": "to love",
+        "construction": {
+          "pattern": "heart + action",
+          "components": ["šer", "ašu"],
+          "formula": "{body_part} + ašu = emotion_verb"
+        }
+      },
+      "ṣiršu": {
+        "script": "𐊑𐊉𐊓𐊔𐊅",
+        "meaning": "to build",
+        "construction": {
+          "pattern": "hand + create",
+          "components": ["ṣir", "šu"],
+          "formula": "{body_part} + šu = creation_verb"
+        }
+      },
+      "hašišu": {
+        "script": "𐊇𐊀𐊔𐊉𐊔𐊅",
+        "meaning": "to run",
+        "construction": {
+          "pattern": "foot + fast + create",
+          "components": ["haš", "ših", "u"],
+          "formula": "{body_part} + {motion_quality} + u = motion_verb"
+        }
+      },
+      "šenšu": {
+        "script": "𐊔𐊄𐊍𐊔𐊅",
+        "meaning": "to watch",
+        "construction": {
+          "pattern": "eye + create",
+          "components": ["šen", "šu"],
+          "formula": "{sense_organ} + šu = attention_verb"
+        }
+      },
+      "nasšu": {
+        "script": "𐊍𐊀𐊎𐊔𐊅",
+        "meaning": "to listen",
+        "construction": {
+          "pattern": "ear + create",
+          "components": ["nas", "šu"],
+          "formula": "{sense_organ} + šu = attention_verb"
+        }
+      },
+      "ašmšu": {
+        "script": "𐊀𐊔𐊌𐊔𐊅",
+        "meaning": "to harden",
+        "construction": {
+          "pattern": "hard + create",
+          "components": ["ašm", "šu"],
+          "formula": "{quality} + šu = quality_change_verb"
+        }
+      },
+      "malšu": {
+        "script": "𐊌𐊀𐊋𐊔𐊅",
+        "meaning": "to smooth",
+        "construction": {
+          "pattern": "smooth + create",
+          "components": ["mal", "šu"],
+          "formula": "{quality} + šu = quality_change_verb"
+        }
+      },
+      "šamšu": {
+        "script": "𐊔𐊀𐊌𐊔𐊅",
+        "meaning": "to brighten",
+        "construction": {
+          "pattern": "bright + create",
+          "components": ["šam", "šu"],
+          "formula": "{quality} + šu = quality_change_verb"
+        }
+      },
+      "gahšu": {
+        "script": "𐊂𐊀𐊇𐊔𐊅",
+        "meaning": "to enlarge",
+        "construction": {
+          "pattern": "big + create",
+          "components": ["gah", "šu"],
+          "formula": "{size_quality} + šu = size_change_verb"
+        }
+      },
+      "zuršu": {
+        "script": "𐊆𐊅𐊓𐊔𐊅",
+        "meaning": "to shrink",
+        "construction": {
+          "pattern": "small + create",
+          "components": ["zur", "šu"],
+          "formula": "{size_quality} + šu = size_change_verb"
+        }
+      },
+      "zerašu": {
+        "script": "𐊆𐊄𐊓𐊀𐊔𐊅",
+        "meaning": "to heat",
+        "construction": {
+          "pattern": "hot + action",
+          "components": ["zer", "ašu"],
+          "formula": "{temperature_quality} + ašu = temperature_verb"
+        }
+      },
+      "šifašu": {
+        "script": "𐊔𐊉𐊐𐊀𐊔𐊅",
+        "meaning": "to cool",
+        "construction": {
+          "pattern": "cold + action",
+          "components": ["šif", "ašu"],
+          "formula": "{temperature_quality} + ašu = temperature_verb"
+        }
+      },
+      "mešu": {
+        "script": "𐊌𐊄𐊔𐊅",
+        "meaning": "to flow",
+        "construction": {
+          "pattern": "flow + create",
+          "components": ["me", "šu"],
+          "formula": "{motion_quality} + šu = motion_verb"
+        }
+      },
+      "nehšu": {
+        "script": "𐊍𐊄𐊇𐊔𐊅",
+        "meaning": "to sweeten",
+        "construction": {
+          "pattern": "sweet + create",
+          "components": ["neh", "šu"],
+          "formula": "{taste_quality} + šu = taste_change_verb"
+        }
+      },
+      "šaršu": {
+        "script": "𐊔𐊀𐊓𐊔𐊅",
+        "meaning": "to embitter",
+        "construction": {
+          "pattern": "bitter + create",
+          "components": ["šar", "šu"],
+          "formula": "{taste_quality} + šu = taste_change_verb"
+        }
+      },
+      "hurašu": {
+        "script": "𐊇𐊅𐊓𐊀𐊔𐊅",
+        "meaning": "to deepen",
+        "construction": {
+          "pattern": "deep + action",
+          "components": ["hur", "ašu"],
+          "formula": "{spatial_quality} + ašu = spatial_verb"
+        }
+      },
+      "sefašu": {
+        "script": "𐊎𐊄𐊐𐊀𐊔𐊅",
+        "meaning": "to raise/heighten",
+        "construction": {
+          "pattern": "tall + action",
+          "components": ["sef", "ašu"],
+          "formula": "{spatial_quality} + ašu = spatial_verb"
+        }
+      }
+    },
+    "adjectives": {
+      "zurru": {
+        "script": "𐊆𐊅𐊓𐊓𐊅",
+        "meaning": "small ones",
+        "construction": {
+          "pattern": "small + plural",
+          "components": ["zur", "ru"],
+          "formula": "{size_quality} + ru = plural_adjective"
+        }
+      },
+      "gahru": {
+        "script": "𐊂𐊀𐊇𐊓𐊅",
+        "meaning": "large ones",
+        "construction": {
+          "pattern": "big + plural",
+          "components": ["gah", "ru"],
+          "formula": "{size_quality} + ru = plural_adjective"
+        }
+      },
+      "šamru": {
+        "script": "𐊔𐊀𐊌𐊓𐊅",
+        "meaning": "bright ones",
+        "construction": {
+          "pattern": "bright + plural",
+          "components": ["šam", "ru"],
+          "formula": "{light_quality} + ru = plural_adjective"
+        }
+      },
+      "žihru": {
+        "script": "𐊆𐊉𐊇𐊓𐊅",
+        "meaning": "sparkling ones",
+        "construction": {
+          "pattern": "sparkle + plural",
+          "components": ["žih", "ru"],
+          "formula": "{light_quality} + ru = plural_adjective"
+        }
+      },
+      "malru": {
+        "script": "𐊌𐊀𐊋𐊓𐊅",
+        "meaning": "smooth ones",
+        "construction": {
+          "pattern": "smooth + plural",
+          "components": ["mal", "ru"],
+          "formula": "{texture_quality} + ru = plural_adjective"
+        }
+      },
+      "ṣarru": {
+        "script": "𐊑𐊀𐊓𐊓𐊅",
+        "meaning": "rough ones",
+        "construction": {
+          "pattern": "rough + plural",
+          "components": ["ṣar", "ru"],
+          "formula": "{texture_quality} + ru = plural_adjective"
+        }
+      },
+      "zerru": {
+        "script": "𐊆𐊄𐊓𐊓𐊅",
+        "meaning": "hot ones",
+        "construction": {
+          "pattern": "hot + plural",
+          "components": ["zer", "ru"],
+          "formula": "{temperature_quality} + ru = plural_adjective"
+        }
+      },
+      "šifru": {
+        "script": "𐊔𐊉𐊐𐊓𐊅",
+        "meaning": "cold ones",
+        "construction": {
+          "pattern": "cold + plural",
+          "components": ["šif", "ru"],
+          "formula": "{temperature_quality} + ru = plural_adjective"
+        }
+      },
+      "nehru": {
+        "script": "𐊍𐊄𐊇𐊓𐊅",
+        "meaning": "sweet ones",
+        "construction": {
+          "pattern": "sweet + plural",
+          "components": ["neh", "ru"],
+          "formula": "{taste_quality} + ru = plural_adjective"
+        }
+      },
+      "šarru": {
+        "script": "𐊔𐊀𐊓𐊓𐊅",
+        "meaning": "bitter ones",
+        "construction": {
+          "pattern": "bitter + plural",
+          "components": ["šar", "ru"],
+          "formula": "{taste_quality} + ru = plural_adjective"
+        }
+      },
+      "hurru": {
+        "script": "𐊇𐊅𐊓𐊓𐊅",
+        "meaning": "deep ones",
+        "construction": {
+          "pattern": "deep + plural",
+          "components": ["hur", "ru"],
+          "formula": "{spatial_quality} + ru = plural_adjective"
+        }
+      },
+      "sefru": {
+        "script": "𐊎𐊄𐊐𐊓𐊅",
+        "meaning": "tall ones",
+        "construction": {
+          "pattern": "tall + plural",
+          "components": ["sef", "ru"],
+          "formula": "{spatial_quality} + ru = plural_adjective"
+        }
+      },
+      "šihru": {
+        "script": "𐊔𐊉𐊇𐊓𐊅",
+        "meaning": "fast ones",
+        "construction": {
+          "pattern": "fast + plural",
+          "components": ["ših", "ru"],
+          "formula": "{motion_quality} + ru = plural_adjective"
+        }
+      },
+      "lenru": {
+        "script": "𐊋𐊄𐊍𐊓𐊅",
+        "meaning": "slow ones",
+        "construction": {
+          "pattern": "slow + plural",
+          "components": ["len", "ru"],
+          "formula": "{motion_quality} + ru = plural_adjective"
+        }
+      },
+      "surru": {
+        "script": "𐊎𐊅𐊓𐊓𐊅",
+        "meaning": "new ones",
+        "construction": {
+          "pattern": "new + plural",
+          "components": ["sur", "ru"],
+          "formula": "{temporal_quality} + ru = plural_adjective"
+        }
+      },
+      "ralru": {
+        "script": "𐊓𐊀𐊋𐊓𐊅",
+        "meaning": "old ones",
+        "construction": {
+          "pattern": "old + plural",
+          "components": ["ral", "ru"],
+          "formula": "{temporal_quality} + ru = plural_adjective"
+        }
+      },
+      "želru": {
+        "script": "𐊆𐊄𐊋𐊓𐊅",
+        "meaning": "green ones",
+        "construction": {
+          "pattern": "green + plural",
+          "components": ["žel", "ru"],
+          "formula": "{color} + ru = plural_adjective"
+        }
+      },
+      "ḫarru": {
+        "script": "𐊇𐊀𐊓𐊓𐊅",
+        "meaning": "red ones",
+        "construction": {
+          "pattern": "red + plural",
+          "components": ["ḫar", "ru"],
+          "formula": "{color} + ru = plural_adjective"
+        }
+      },
+      "siru": {
+        "script": "𐊎𐊉𐊓𐊅",
+        "meaning": "silver ones",
+        "construction": {
+          "pattern": "silver + plural",
+          "components": ["si", "ru"],
+          "formula": "{color} + ru = plural_adjective"
+        }
+      },
+      "ašmru": {
+        "script": "𐊀𐊔𐊌𐊓𐊅",
+        "meaning": "hard ones",
+        "construction": {
+          "pattern": "hard + plural",
+          "components": ["ašm", "ru"],
+          "formula": "{material_quality} + ru = plural_adjective"
+        }
+      }
+    }
+  },
+  "construction_rules": {
+    "verb_formation": [
+      {
+        "pattern": "{sense_organ} + ašu",
+        "result": "sense_verb",
+        "example": "šen + ašu = šenašu (to see)"
+      },
+      {
+        "pattern": "{body_part} + ašu",
+        "result": "action_verb",
+        "example": "ṣir + ašu = ṣirašu (to carry)"
+      },
+      {
+        "pattern": "{body_part} + šu",
+        "result": "creation_verb",
+        "example": "žaf + šu = žafšu (to speak)"
+      }
+    ],
+    "noun_formation": [
+      {
+        "pattern": "{quality} + šu",
+        "result": "substance/object",
+        "example": "me + šu = mešu (water)"
+      },
+      {
+        "pattern": "{quality} + ru",
+        "result": "energy/multiple",
+        "example": "žih + ru = žihru (stars)"
+      }
+    ],
+    "pronoun_formation": [
+      {
+        "pattern": "{pronoun} + ru",
+        "result": "plural_pronoun",
+        "example": "šu + ru = šuru (you-plural)"
+      },
+      {
+        "pattern": "{pronoun} + nu",
+        "result": "inclusive_pronoun",
+        "example": "sa + nu = sanu (we)"
+      }
+    ]
+  }
+}

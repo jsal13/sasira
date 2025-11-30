@@ -4,7 +4,7 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Copy requirements first for better caching
-COPY viewer/requirements.txt .
+COPY webapp/requirements.txt .
 
 # Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
@@ -12,15 +12,15 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the application code
 COPY . .
 
-# Set the working directory to viewer for the Flask app
-WORKDIR /app/viewer
+# Set the working directory to webapp for the Flask app
+WORKDIR /app/webapp
 
 # Expose the port
-EXPOSE 8001
+EXPOSE 5000
 
 # Set environment variables
-ENV FLASK_APP=server.py
+ENV FLASK_APP=app.py
 ENV FLASK_ENV=development
 
 # Run the Flask application
-CMD ["python", "server.py"]
+CMD ["python", "app.py"]

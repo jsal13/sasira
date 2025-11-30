@@ -1,0 +1,62 @@
+{
+    "name": "Administrative Center",
+    "context": "These official tablets were recovered from the ruins of what appears to be the settlement's administrative headquarters. The building featured multiple offices, record storage rooms, and a central archive. The tablets show formal governmental procedures, legal documents, and bureaucratic correspondence with neighboring settlements.",
+    "texts": [
+        {
+            "name": "Trade Agreement Fragment",
+            "sasiran": "Sanu luru nu [...] nehšu ašmu ṣirašu. Gahru zurru žafšu.",
+            "script": "𐊎𐊀𐊍𐊅 𐊋𐊅𐊓𐊅 𐊍𐊅 [...] 𐊍𐊄𐊇𐊔𐊅 𐊀𐊔𐊌 𐊑𐊉𐊓𐊀𐊔𐊅. 𐊂𐊀𐊇𐊓𐊅 𐊆𐊅𐊓𐊓𐊅 𐊆𐊀𐊐𐊔𐊅.",
+            "translation": "We with them [...] carry fruit and stone. Large ones, small ones speak.",
+            "notes": "Found in diplomatic archives. Formal treaty script with official seals impressed in clay."
+        },
+        {
+            "name": "Tax Collection Record",
+            "sasiran": "Lu šezru nehšu [...] sanu ṣirašu. Šamru žihru šenašu.",
+            "script": "𐊋𐊅 𐊔𐊄𐊆𐊓𐊅 𐊍𐊄𐊇𐊔𐊅 [...] 𐊎𐊀𐊍𐊅 𐊑𐊉𐊓𐊀𐊔𐊅. 𐊔𐊀𐊌𐊓𐊅 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅.",
+            "translation": "They [...] we carry forest fruit. Bright ones, sparkling ones see.",
+            "notes": "Located in treasury office. Systematic accounting script with quantity tallies in margins."
+        },
+        {
+            "name": "Legal Dispute Resolution",
+            "sasiran": "Šu sa nu [...] šerašu žafšu. Ašmru malru hurašu.",
+            "script": "𐊔𐊅 𐊎𐊀 𐊍𐊅 [...] 𐊔𐊄𐊓𐊀𐊔𐊅 𐊆𐊀𐊐𐊔𐊅. 𐊀𐊔𐊌𐊓𐊅 𐊌𐊀𐊋𐊓𐊅 𐊇𐊅𐊓𐊀𐊔𐊅.",
+            "translation": "You with me [...] love and speak. Hard ones, smooth ones deepen.",
+            "notes": "Discovered in courthouse chamber. Legal terminology with witness signature marks."
+        },
+        {
+            "name": "Population Census Data",
+            "sasiran": "Luru sanu [...] šuru mešu žafašu. Ralru surru gahšu.",
+            "script": "𐊋𐊅𐊓𐊅 𐊎𐊀𐊍𐊅 [...] 𐊔𐊅𐊓𐊅 𐊌𐊄𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅. 𐊓𐊀𐊋𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊂𐊀𐊇𐊔𐊅.",
+            "translation": "They we [...] you all eat water and fire. Old ones, new ones enlarge.",
+            "notes": "Found in census bureau. Methodical administrative script with household counting symbols."
+        },
+        {
+            "name": "Military Service Orders",
+            "sasiran": "Šuru [...] ašmgah žihru šenšu. Šihru lenru ešu.",
+            "script": "𐊔𐊅𐊓𐊅 [...] 𐊀𐊔𐊌𐊂𐊀𐊇 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅. 𐊔𐊉𐊇𐊓𐊅 𐊋𐊄𐊍𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "You all [...] watch mountains and stars. Fast ones, slow ones move.",
+            "notes": "Located in military affairs office. Authoritative script with ranks and deployment schedules."
+        },
+        {
+            "name": "Inter-Settlement Correspondence",
+            "sasiran": "Sa luru [...] šezašu šamšeru šenašu. Nehru ṣarru žafašu.",
+            "script": "𐊎𐊀 𐊋𐊅𐊓𐊅 [...] 𐊔𐊄𐊆𐊀𐊔𐊅 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅. 𐊍𐊄𐊇𐊓𐊅 𐊑𐊀𐊓𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅.",
+            "translation": "I they [...] grow dawn and see. Sweet ones, rough ones eat.",
+            "notes": "Discovered in foreign affairs archive. Diplomatic script with translation notes in margins."
+        },
+        {
+            "name": "Resource Allocation Plan",
+            "sasiran": "Sanu mešu [...] ašmu gahšu malšu. Želru ḫarru šamšu.",
+            "script": "𐊎𐊀𐊍𐊅 𐊌𐊄𐊔𐊅 [...] 𐊀𐊔𐊌 𐊂𐊀𐊇𐊔𐊅 𐊌𐊀𐊋𐊔𐊅. 𐊆𐊄𐊋𐊓𐊅 𐊇𐊀𐊓𐊓𐊅 𐊔𐊀𐊌𐊔𐊅.",
+            "translation": "We water [...] enlarge and smooth stone. Green ones, red ones brighten.",
+            "notes": "Found in planning department. Strategic script with resource distribution maps attached."
+        },
+        {
+            "name": "Public Works Project",
+            "sasiran": "Lu šuru [...] mehuš sefašu hurašu. Zerru šifru ešu.",
+            "script": "𐊋𐊅 𐊔𐊅𐊓𐊅 [...] 𐊌𐊄𐊇𐊅𐊔 𐊎𐊄𐊐𐊀𐊔𐊅 𐊇𐊅𐊓𐊀𐊔𐊅. 𐊆𐊄𐊓𐊓𐊅 𐊔𐊉𐊐𐊓𐊅 𐊄𐊔𐊅.",
+            "translation": "They fire [...] heighten and deepen rivers. Hot ones, cold ones move.",
+            "notes": "Located in public works office. Engineering script with construction timeline annotations."
+        }
+    ]
+}

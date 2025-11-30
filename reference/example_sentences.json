@@ -1,0 +1,197 @@
+{
+  "language": "Sasiran",
+  "grammar_notes": {
+    "word_order": "SOV (Subject-Object-Verb)",
+    "morphology": "agglutinative",
+    "phonology": "sibilant-heavy with Akkadian inspiration"
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "sasiran": "Sa šamšu šenašu.",
+      "script": "𐊖𐊀 𐊔𐊀𐊌𐊔𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+      "literal": "I sun see",
+      "english": "I see the sun.",
+      "grammar": "pronoun + noun + verb",
+      "morphemes": ["sa", "šamšu", "šenašu"]
+    },
+    {
+      "id": 2,
+      "sasiran": "Šu nehru nehšu žafašu.",
+      "script": "𐊖𐊚 𐊍𐊄𐊇𐊓𐊅 𐊍𐊄𐊇𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅",
+      "literal": "You sweet-ones sweeten eat",
+      "english": "You eat sweet things.",
+      "grammar": "pronoun + adjective + verb + verb",
+      "morphemes": ["šu", "nehru", "nehšu", "žafašu"]
+    },
+    {
+      "id": 3,
+      "sasiran": "Lu žihru šenšu.",
+      "script": "𐊍𐊚 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
+      "literal": "He/she/it stars watch",
+      "english": "They watch the stars.",
+      "grammar": "pronoun + noun + verb",
+      "morphemes": ["lu", "žihru", "šenšu"]
+    },
+    {
+      "id": 4,
+      "sasiran": "Sanu mešu ṣirašu.",
+      "script": "𐊖𐊀𐊌𐊚 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+      "literal": "We water carry",
+      "english": "We carry water.",
+      "grammar": "pronoun + noun + verb",
+      "morphemes": ["sanu", "mešu", "ṣirašu"]
+    },
+    {
+      "id": 5,
+      "sasiran": "Šul šulešu, mur murašu.",
+      "script": "𐊔𐊅𐊋 𐊔𐊅𐊋𐊄𐊔𐊅, 𐊌𐊅𐊓 𐊌𐊅𐊓𐊀𐊔𐊅",
+      "literal": "Wind blow, rain rain",
+      "english": "The wind blows, the rain falls.",
+      "grammar": "noun + verb, noun + verb",
+      "morphemes": ["šul", "šulešu", "mur", "murašu"]
+    },
+    {
+      "id": 6,
+      "sasiran": "Šez zurru gahru šezašu.",
+      "script": "𐊔𐊄𐊆 𐊆𐊅𐊓𐊓𐊅 𐊂𐊀𐊇𐊓𐊅 𐊔𐊄𐊆𐊀𐊔𐊅",
+      "literal": "Tree small-ones large-ones grow",
+      "english": "Small trees grow large.",
+      "grammar": "noun + adjective + adjective + verb",
+      "morphemes": ["šez", "zurru", "gahru", "šezašu"]
+    },
+    {
+      "id": 7,
+      "sasiran": "Sa šu šerašu.",
+      "script": "𐊖𐊀 𐊖𐊚 𐊔𐊄𐊓𐊀𐊔𐊅",
+      "literal": "I you love",
+      "english": "I love you.",
+      "grammar": "pronoun + pronoun + verb",
+      "morphemes": ["sa", "šu", "šerašu"]
+    },
+    {
+      "id": 8,
+      "sasiran": "Luru ašmu ṣiršu.",
+      "script": "𐊍𐊚𐊗𐊚 𐊀𐊔𐊌 𐊑𐊉𐊓𐊔𐊅",
+      "literal": "They stone build",
+      "english": "They build with stone.",
+      "grammar": "pronoun + noun + verb",
+      "morphemes": ["luru", "ašmu", "ṣiršu"]
+    },
+    {
+      "id": 9,
+      "sasiran": "Sanu šuru žafšu.",
+      "script": "𐊖𐊀𐊌𐊚 𐊔𐊅𐊓𐊅 𐊆𐊀𐊐𐊔𐊅",
+      "literal": "We fire speak",
+      "english": "We speak of fire.",
+      "grammar": "pronoun + noun + verb",
+      "morphemes": ["sanu", "šuru", "žafšu"]
+    },
+    {
+      "id": 10,
+      "sasiran": "Šu hašišu, sa lenru ešu.",
+      "script": "𐊖𐊚 𐊇𐊀𐊔𐊉𐊔𐊅, 𐊖𐊀 𐊋𐊄𐊍𐊓𐊅 𐊄𐊔𐊅",
+      "literal": "You run, I slow-ones move",
+      "english": "You run, I move slowly.",
+      "grammar": "pronoun + verb, pronoun + adjective + verb",
+      "morphemes": ["šu", "hašišu", "sa", "lenru", "ešu"]
+    },
+    {
+      "id": 11,
+      "sasiran": "Sinu šamru žihru nasašu.",
+      "script": "𐊎𐊉𐊍𐊅 𐊔𐊀𐊌𐊓𐊅 𐊆𐊉𐊇𐊓𐊅 𐊍𐊀𐊎𐊀𐊔𐊅",
+      "literal": "Moon bright-ones sparkling-ones hear",
+      "english": "The moon hears the bright sparkling ones.",
+      "grammar": "noun + adjective + adjective + verb",
+      "morphemes": ["sinu", "šamru", "žihru", "nasašu"]
+    },
+    {
+      "id": 12,
+      "sasiran": "Lu ašmu malšu ašmru.",
+      "script": "𐊍𐊚 𐊀𐊔𐊌 𐊌𐊀𐊋𐊔𐊅 𐊀𐊔𐊌𐊓𐊅",
+      "literal": "He/she/it stone smooth hard-ones",
+      "english": "They smooth the hard stones.",
+      "grammar": "pronoun + noun + verb + adjective",
+      "morphemes": ["lu", "ašmu", "malšu", "ašmru"]
+    },
+    {
+      "id": 13,
+      "sasiran": "Zer mešu šifašu.",
+      "script": "𐊆𐊄𐊓 𐊌𐊄𐊔𐊅 𐊔𐊉𐊐𐊀𐊔𐊅",
+      "literal": "Hot water cool",
+      "english": "The hot water cools.",
+      "grammar": "adjective + noun + verb",
+      "morphemes": ["zer", "mešu", "šifašu"]
+    },
+    {
+      "id": 14,
+      "sasiran": "Sa šezru šenašu, želru ḫarru.",
+      "script": "𐊖𐊀 𐊔𐊄𐊆𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅, 𐊆𐊄𐊋𐊓𐊅 𐊇𐊀𐊓𐊓𐊅",
+      "literal": "I forest see, green-ones red-ones",
+      "english": "I see the forest, green and red ones.",
+      "grammar": "pronoun + noun + verb, adjective + adjective",
+      "morphemes": ["sa", "šezru", "šenašu", "želru", "ḫarru"]
+    },
+    {
+      "id": 15,
+      "sasiran": "Šuru mehuš hurašu gahšu.",
+      "script": "𐊖𐊚𐊗𐊚 𐊌𐊄𐊇𐊅𐊔 𐊇𐊅𐊓𐊀𐊔𐊅 𐊂𐊀𐊇𐊔𐊅",
+      "literal": "You-plural river deepen enlarge",
+      "english": "You all deepen and widen the river.",
+      "grammar": "pronoun + noun + verb + verb",
+      "morphemes": ["šuru", "mehuš", "hurašu", "gahšu"]
+    },
+    {
+      "id": 16,
+      "sasiran": "Šamšeru surru ralru šamšu.",
+      "script": "𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊓𐊀𐊋𐊓𐊅 𐊔𐊀𐊌𐊔𐊅",
+      "literal": "Dawn new-ones old-ones brighten",
+      "english": "Dawn brightens new and old things.",
+      "grammar": "noun + adjective + adjective + verb",
+      "morphemes": ["šamšeru", "surru", "ralru", "šamšu"]
+    },
+    {
+      "id": 17,
+      "sasiran": "Luru nehšu žafšu.",
+      "script": "𐊍𐊚𐊗𐊚 𐊍𐊄𐊇𐊔𐊅 𐊆𐊀𐊐𐊔𐊅",
+      "literal": "They fruit eat",
+      "english": "They eat fruit.",
+      "grammar": "pronoun + noun + verb",
+      "morphemes": ["luru", "nehšu", "žafašu"]
+    },
+    {
+      "id": 18,
+      "sasiran": "Sa ašmgah sefašu.",
+      "script": "𐊖𐊀 𐊀𐊔𐊌𐊂𐊀𐊇 𐊎𐊄𐊐𐊀𐊔𐊅",
+      "literal": "I mountain raise",
+      "english": "I raise the mountain.",
+      "grammar": "pronoun + noun + verb",
+      "morphemes": ["sa", "ašmgah", "sefašu"]
+    },
+    {
+      "id": 19,
+      "sasiran": "Šulsur šihru ešu, žafšu ṣarru.",
+      "script": "𐊔𐊅𐊋𐊎𐊅𐊓 𐊔𐊉𐊇𐊓𐊅 𐊄𐊔𐊅, 𐊆𐊀𐊐𐊔𐊅 𐊑𐊀𐊓𐊓𐊅",
+      "literal": "Storm fast-ones move, food rough-ones",
+      "english": "The storm moves quickly, making food rough.",
+      "grammar": "noun + adjective + verb, noun + adjective",
+      "morphemes": ["šulsur", "šihru", "ešu", "žafšu", "ṣarru"]
+    },
+    {
+      "id": 20,
+      "sasiran": "Sanu šer nu šam nu žih nasšu.",
+      "script": "𐊖𐊀𐊌𐊚 𐊔𐊄𐊓 𐊍𐊅 𐊔𐊀𐊌 𐊍𐊅 𐊆𐊉𐊇 𐊍𐊀𐊎𐊔𐊅",
+      "literal": "We heart with bright with sparkle listen",
+      "english": "We listen with heart, with brightness and sparkle.",
+      "grammar": "pronoun + noun + conjunction + adjective + conjunction + adjective + verb",
+      "morphemes": ["sanu", "šer", "nu", "šam", "nu", "žih", "nasšu"]
+    }
+  ],
+  "vocabulary_usage_summary": {
+    "pronouns": ["sa", "šu", "lu", "sanu", "šuru", "luru"],
+    "verbs": ["šenašu", "žafašu", "šenšu", "ṣirašu", "šulešu", "murašu", "šezašu", "šerašu", "ṣiršu", "hašišu", "malšu", "šifašu", "hurašu", "gahšu", "šamšu", "sefašu", "nasšu", "ešu"],
+    "nouns": ["šamšu", "žihru", "mešu", "šul", "mur", "šez", "ašmu", "šuru", "sinu", "šezru", "mehuš", "šamšeru", "nehšu", "ašmgah", "šulsur", "žafšu"],
+    "adjectives": ["nehru", "zurru", "gahru", "šamru", "ašmru", "želru", "ḫarru", "surru", "ralru", "šihru", "ṣarru"],
+    "other": ["nu"]
+  }
+}

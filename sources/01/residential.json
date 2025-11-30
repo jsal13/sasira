@@ -1,0 +1,55 @@
+{
+    "name": "Residential Quarter",
+    "context": "These household tablets were uncovered in the collapsed remains of family dwellings. Most were found in what appear to be kitchen areas and storage rooms. The tablets show a more personal, informal style compared to public or commercial texts. Many show signs of daily handling and wear from frequent use in domestic activities.",
+    "texts": [
+        {
+            "name": "Family Meal Planning",
+            "sasiran": "Sanu nehšu žafašu.",
+            "script": "𐊖𐊀𐊌𐊚 𐊍𐊄𐊇𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅",
+            "notes": "Found in kitchen hearth area. Worn script from repeated handling during meal preparation.",
+            "translation": "We eat fruit."
+        },
+        {
+            "name": "Children's Task List",
+            "sasiran": "Šuru mešu ṣirašu.",
+            "script": "𐊖𐊚𐊗𐊚 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "notes": "Discovered in family courtyard. Large, simple script suggesting instructions for young helpers.",
+            "translation": "You all carry water."
+        },
+        {
+            "name": "Evening Routine",
+            "sasiran": "Lu žihru šenašu.",
+            "script": "𐊍𐊚 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "notes": "Found near sleeping area. Gentle script worn from nightly reading - possibly bedtime ritual.",
+            "translation": "They see stars."
+        },
+        {
+            "name": "Household Inventory",
+            "sasiran": "Sa ašmru šenašu.",
+            "script": "𐊖𐊀 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "notes": "Located in storage room. Methodical script with check marks - appears to be possession tracking.",
+            "translation": "I see hard ones."
+        },
+        {
+            "name": "Water Collection",
+            "sasiran": "Luru mešu ṣirašu.",
+            "script": "𐊍𐊚𐊗𐊚 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "notes": "Found near home well. Practical script with water level marks along the sides.",
+            "translation": "They carry water."
+        },
+        {
+            "name": "Garden Notes",
+            "sasiran": "Šu nehru šenšu.",
+            "script": "𐊖𐊚 𐊍𐊄𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
+            "notes": "Discovered buried in garden plot. Weather-worn script with soil stains - outdoor use evident.",
+            "translation": "You watch sweet ones."
+        },
+        {
+            "name": "Family Communication",
+            "sasiran": "Sa šu žafšu.",
+            "script": "𐊖𐊀 𐊖𐊚 𐊆𐊀𐊐𐊔𐊅",
+            "notes": "Found in main living area. Affectionate script with careful lettering - possibly love note or family message.",
+            "translation": "I speak to you."
+        }
+    ]
+}

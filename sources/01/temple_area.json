@@ -1,0 +1,55 @@
+{
+    "name": "Temple Area",
+    "context": "These tablets were discovered in the ruins of what appears to be a small neighborhood temple. The tablets were found buried under fallen stone blocks from the temple's outer wall. Most show signs of hurried burial, suggesting they were hidden during some kind of emergency. The clay is of higher quality than typical marketplace tablets, indicating religious significance.",
+    "texts": [
+        {
+            "name": "Daily Prayer Tablet",
+            "sasiran": "Sa šamšu šenašu.",
+            "script": "𐊖𐊀 𐊔𐊀𐊌𐊔𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "translation": "I see the sun.",
+            "notes": "Found near altar remains. Carefully carved with reverent script and a crude drawing of the sun and clouds."
+        },
+        {
+            "name": "Offering Record",
+            "sasiran": "Sanu nehšu ṣirašu.",
+            "script": "𐊖𐊀𐊌𐊚 𐊍𐊄𐊇𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "translation": "I see the sun.",
+            "notes": "Discovered in offering chamber. Formal script suggests official temple record-keeping."
+        },
+        {
+            "name": "Blessing Request",
+            "sasiran": "Lu žihru šenšu.",
+            "script": "𐊍𐊚 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
+            "translation": "I see the sun.",
+            "notes": "Found buried beneath prayer mat remnants. Script shows emotional urgency in carving depth."
+        },
+        {
+            "name": "Ritual Instruction",
+            "sasiran": "Šuru mešu žafašu.",
+            "script": "𐊖𐊚𐊗𐊚 𐊌𐊄𐊔𐊅 𐊆𐊀𐊐𐊀𐊔𐊅",
+            "translation": "I see the sun.",
+            "notes": "Located in priest's quarters. Very precise script indicating instructional text for ceremonies."
+        },
+        {
+            "name": "Community Gathering",
+            "sasiran": "Luru sanu žafšu.",
+            "script": "𐊍𐊚𐊗𐊚 𐊖𐊀𐊌𐊚 𐊆𐊀𐊐𐊔𐊅",
+            "translation": "I see the sun.",
+            "notes": "Found in main temple hall. Large script carved for public reading during gatherings."
+        },
+        {
+            "name": "Sacred Fire Tending",
+            "sasiran": "Sa šuru šenšu.",
+            "script": "𐊖𐊀 𐊔𐊅𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
+            "translation": "I see the sun.",
+            "notes": "Discovered near eternal flame pit. Heat-damaged but script shows careful maintenance notes."
+        },
+        {
+            "name": "Morning Service",
+            "sasiran": "Šu ašmru šenašu.",
+            "script": "𐊖𐊚 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "translation": "I see the sun.",
+            "notes": "Found in dawn-facing alcove. Script worn smooth from repeated reading during sunrise prayers."
+        }
+    ]
+}

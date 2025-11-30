@@ -1,0 +1,55 @@
+{
+    "name": "Guard Post",
+    "context": "These military tablets were recovered from what appears to be a small guard outpost at the settlement's edge. The tablets were found in a wooden chest that had been buried hastily, likely during an evacuation. The script shows the disciplined hand of trained soldiers and contains what appear to be duty rosters and patrol reports.",
+    "texts": [
+        {
+            "name": "Watch Assignment",
+            "sasiran": "Šu žihru šenšu.",
+            "script": "𐊖𐊚 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅",
+            "notes": "Found in duty roster area. Military precision in script - standard watch order format.",
+            "translation": "You watch stars."
+        },
+        {
+            "name": "Water Ration",
+            "sasiran": "Luru mešu ṣirašu.",
+            "script": "𐊍𐊚𐊗𐊚 𐊌𐊄𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "notes": "Located in supply storage. Efficient script with quantity marks - resource management record.",
+            "translation": "They carry water."
+        },
+        {
+            "name": "Equipment Check",
+            "sasiran": "Sanu ašmru šenašu.",
+            "script": "𐊖𐊀𐊌𐊚 𐊀𐊔𐊌𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "notes": "Discovered in armory area. Systematic script with check marks - daily equipment inspection.",
+            "translation": "We see hard ones."
+        },
+        {
+            "name": "Signal Fire Orders",
+            "sasiran": "Lu šuru žafšu.",
+            "script": "𐊍𐊚 𐊔𐊅𐊓𐊅 𐊆𐊀𐊐𐊔𐊅",
+            "notes": "Found near beacon tower. Urgent script suggesting emergency communication protocols.",
+            "translation": "They speak of fire."
+        },
+        {
+            "name": "Patrol Report",
+            "sasiran": "Sa šamšu šenašu.",
+            "script": "𐊖𐊀 𐊔𐊀𐊌𐊔𐊅 𐊔𐊄𐊍𐊀𐊔𐊅",
+            "notes": "Located in report filing area. Clear, formal script indicating official documentation.",
+            "translation": "I see the sun."
+        },
+        {
+            "name": "Night Relief",
+            "sasiran": "Šuru sanu žafšu.",
+            "script": "𐊖𐊚𐊗𐊚 𐊖𐊀𐊌𐊚 𐊆𐊀𐊐𐊔𐊅",
+            "notes": "Found in guard quarters. Weary script suggesting end-of-watch communication between shifts.",
+            "translation": "You all speak to us."
+        },
+        {
+            "name": "Supply Request",
+            "sasiran": "Lu nehšu ṣirašu.",
+            "script": "𐊍𐊚 𐊍𐊄𐊇𐊔𐊅 𐊑𐊉𐊓𐊀𐊔𐊅",
+            "notes": "Discovered in command area. Formal military script?",
+            "translation": "They carry fruit."
+        }
+    ]
+}

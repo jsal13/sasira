@@ -1,0 +1,62 @@
+{
+    "name": "Ceremonial Areas",
+    "context": "Discovered in the grand ceremonial complex, these tablets were found in sealed chambers beneath ornate altars. The preservation is exceptional due to protective stone casings. The script shows the formal hand of high priests and contains complex ritual instructions and sacred formulas. Several tablets are fragmentary, with portions lost to ancient vandalism or deliberate censorship.",
+    "texts": [
+        {
+            "name": "Sacred Invocation Fragment",
+            "sasiran": "Sanu šamšeru [...] žihru šenašu. Lu ašmgah hurašu.",
+            "script": "𐊖𐊀𐊌𐊚 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 [...] 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊀𐊔𐊅. 𐊍𐊚 𐊀𐊔𐊌𐊂𐊀𐊇 𐊇𐊅𐊓𐊀𐊔𐊅.",
+            "notes": "Found in primary altar chamber. Ceremonial script with gold inlay - missing section appears deliberately removed.",
+            "translation": "We [see/watch] dawn [...] stars see. They deepen mountains."
+        },
+        {
+            "name": "Seasonal Ritual Instructions",
+            "sasiran": "Šuru nehšu šezru ṣirašu. [...] gahšu surru šamšu.",
+            "script": "𐊖𐊚𐊗𐊚 𐊍𐊄𐊇𐊔𐊅 𐊔𐊄𐊆𐊓𐊅 𐊑𐊉𐊓𐊀𐊔𐊅. [...] 𐊂𐊀𐊇𐊔𐊅 𐊎𐊅𐊓𐊓𐊅 𐊔𐊀𐊌𐊔𐊅.",
+            "notes": "Located in seasonal worship area. Formal priestly script with ritual timing marks along margins.",
+            "translation": "You all carry fruit of forest. [...] enlarge new ones, brighten."
+        },
+        {
+            "name": "Community Blessing Text",
+            "sasiran": "Luru sanu nu šezašu šerašu. Šamru želru [...] malšu.",
+            "script": "𐊍𐊚𐊗𐊚 𐊖𐊀𐊌𐊚 𐊍𐊅 𐊔𐊄𐊆𐊀𐊔𐊅 𐊔𐊄𐊓𐊀𐊔𐊅. 𐊔𐊀𐊌𐊓𐊅 𐊆𐊄𐊋𐊓𐊅 [...] 𐊌𐊀𐊋𐊔𐊅.",
+            "notes": "Discovered in community gathering hall. Script shows multiple hands - congregational response portions.",
+            "translation": "They with us grow and love. Bright ones, green ones [...] smooth."
+        },
+        {
+            "name": "Sacred Water Ceremony",
+            "sasiran": "Sa mešu šifašu zerašu. Hurru sefru [...] mešu.",
+            "script": "𐊖𐊀 𐊌𐊄𐊔𐊅 𐊔𐊉𐊐𐊀𐊔𐊅 𐊆𐊄𐊓𐊀𐊔𐊅. 𐊇𐊅𐊓𐊓𐊅 𐊎𐊄𐊐𐊓𐊅 [...] 𐊌𐊄𐊔𐊅.",
+            "notes": "Found near sacred spring. Water-damaged script with mineral deposits - purification ritual text.",
+            "translation": "I cool water, then heat water. Deep ones, tall ones [...] water."
+        },
+        {
+            "name": "Harvest Thanksgiving",
+            "sasiran": "Šuru nehru žafašu, šezru [...] šamšeru šenšu.",
+            "script": "𐊖𐊚𐊗𐊚 𐊍𐊄𐊇𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅, 𐊔𐊄𐊆𐊓𐊅 [...] 𐊔𐊀𐊌𐊔𐊄𐊓𐊅 𐊔𐊄𐊍𐊔𐊅.",
+            "notes": "Located in harvest shrine. Script decorated with plant motifs - seasonal celebration instructions.",
+            "translation": "You all eat sweet ones, forest [...] dawn watch."
+        },
+        {
+            "name": "Evening Prayer Cycle",
+            "sasiran": "Lu žihru šenšu, sinu [...] nasšu. Ralru surru žafšu.",
+            "script": "𐊍𐊚 𐊆𐊉𐊇𐊓𐊅 𐊔𐊄𐊍𐊔𐊅, 𐊎𐊉𐊍𐊅 [...] 𐊍𐊀𐊎𐊔𐊅. 𐊓𐊀𐊋𐊓𐊅 𐊎𐊅𐊓𐊓𐊅 𐊆𐊀𐊐𐊔𐊅.",
+            "notes": "Found in twilight prayer alcove. Script shows wear patterns from nightly recitation - gaps from age erosion.",
+            "translation": "They watch stars, moon [...] listen. Old ones, new ones speak."
+        },
+        {
+            "name": "Sacred Fire Maintenance",
+            "sasiran": "Sanu šuru gahšu [...] ašmru ṣiršu. Zerru šihru ešu.",
+            "script": "𐊖𐊀𐊌𐊚 𐊔𐊅𐊓𐊅 𐊂𐊀𐊇𐊔𐊅 [...] 𐊀𐊔𐊌𐊓𐊅 𐊑𐊉𐊓𐊔𐊅. 𐊆𐊄𐊓𐊓𐊅 𐊔𐊉𐊇𐊓𐊅 𐊄𐊔𐊅.",
+            "notes": "Discovered in eternal flame chamber. Heat-cracked script with soot stains - keeper's manual.",
+            "translation": "We enlarge fire [...] carry hard ones. Hot ones move quickly."
+        },
+        {
+            "name": "Purification Rite",
+            "sasiran": "Šu ašmu malšu, me [...] šifru nehru žafašu.",
+            "script": "𐊖𐊚 𐊀𐊔𐊌 𐊌𐊀𐊋𐊔𐊅, 𐊌𐊄 [...] 𐊔𐊉𐊐𐊓𐊅 𐊍𐊄𐊇𐊓𐊅 𐊆𐊀𐊐𐊀𐊔𐊅.",
+            "notes": "Located in purification chamber. Formal script with correction marks - apprentice priest training text.",
+            "translation": "You smooth stone, flow [...] cold ones, sweet ones eat."
+        }
+    ]
+}
